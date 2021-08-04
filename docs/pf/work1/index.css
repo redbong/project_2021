@@ -10,9 +10,10 @@ body {
   background-repeat: no-repeat;
   background-size: var(--site-width) auto;
   /* 임시 */
-  min-height: 20250px;
+  min-height: 16880px;
 
 }
+
 .site-wrap {
   position: relative;
   width: var(--site-width);
@@ -27,148 +28,193 @@ body {
 }
 
 /* section-2 : 프로젝트 골, 로고 , 액티브 아이콘  */
-.bn_2_1{
+.bn_2_1 {
   width: 1445px;
   margin-top: 245px;
   margin-left: 250px;
-  opacity: 0
+  opacity: 0;
 }
-.bn_2_2{
-  width:663.69px;
+
+.bn_2_2 {
+  width: 663.69px;
   margin-top: 249px;
   margin-left: 270px;
+  opacity: 0;
 
 }
-.bn_2_3{
+
+.bn_2_3 {
   width: 710.81px;
   margin-top: -313px;
   margin-left: 1150px;
+  opacity: 0;
 }
+
 /* section-3 : 배경, 컬러 , 노말 아이콘 , 폰트  */
-.bn_3_0{
+.bn_3_0 {
   width: 2962px;
   margin-top: -870px;
-  
+
 }
-.bn_3_1{
-  width:826px;
+
+.bn_3_1 {
+  width: 826px;
   margin-top: -1950px;
   margin-left: 300px;
+
 }
-.bn_3_2{
+
+.bn_3_2 {
   width: 826px;
   margin-top: -810px;
   margin-left: 1150px;
 }
-.bn_3_3{
+
+.bn_3_3 {
   width: 643.35px;
   margin-left: 1150px;
   margin-top: 60px;
 }
+
 /* section-4 : 페르소나  */
-.bn_4_1{
+.bn_4_1 {
   width: 1845px;
-  margin-left:280px;
+  margin-left: 280px;
   margin-top: 50px;
- 
+  opacity: 0;
+
 }
+
 /* section-5 : 와이어프레임  */
-.bn_5_1{
+.bn_5_1 {
   width: 2042px;
+  opacity: 0;
 }
+
 /* section-6 : 로그인 화면 스플래쉬 화면  */
-.bn_6_1{
+.bn_6_1 {
   width: 641.4px;
   margin-left: 1200px;
   margin-top: -750px;
+  opacity: 0;
 }
-.bn_6_2{
+
+.bn_6_2 {
   width: 1124px;
   margin-top: -390px;
   margin-left: 120px;
+  opacity: 0;
 }
+
 /* section-7 : 배경, 메뉴바, 홈화면들  */
-.bn_7_0{
+.bn_7_0 {
   width: 3930.66px;
 }
-.bn_7_1{
+
+.bn_7_1 {
   width: 679.87px;
   margin-top: -2300px;
   margin-left: 100px;
+  opacity: 0;
 }
-.bn_7_2{
+
+.bn_7_2 {
   width: 1401.08px;
   margin-top: -1400px;
   margin-left: 350px;
 }
+
 /* section-8 : 그룹생성 즐겨찾기 추천루틴  */
-.bn_8_1{
+.bn_8_1 {
   width: 1495.03px;
   margin-left: 270px;
 }
+
 /* section-9 : 나만의 습관 화면  */
-.bn_9_1{
+.bn_9_1 {
   width: 1809.49px;
   margin-top: 120px;
   margin-left: 50px;
 }
+
 /* section-10 : 배경, 달력화면,체크화면,메모화면  */
-.bn_10_0{
+.bn_10_0 {
   width: 3348px;
   margin-top: -900px;
 }
-.bn_10_1{
+
+.bn_10_1 {
   width: 346.9px;
   margin-top: -2100px;
   margin-left: 290px;
+  opacity: 0;
 }
-.bn_10_2{
+
+.bn_10_2 {
   width: 346px;
   margin-top: -750px;
   margin-left: 800px;
+  opacity: 0;
 }
-.bn_10_3{
+
+.bn_10_3 {
   width: 346.65px;
   margin-top: -630px;
   margin-left: 1300px;
+  opacity: 0;
 
 }
-.txt_10_1{
+
+.txt_10_1 {
   margin-left: 520.46px;
   margin-top: -20px;
+  opacity: 0;
 }
+
 /* section-11 : 메모추가하기 메모모아보기  */
-.bn_11_1{
+.bn_11_1 {
   margin-left: 271.11px;
   margin-top: 150px;
 }
+
 /* section-12 : 캐릭터 선택, 달성도화면, 캐릭터 성장화면   */
-.bn_12_1{
+.bn_12_1 {
   margin-top: 180px;
   margin-left: 232px;
 }
-.bn_12_2{
+
+.bn_12_2 {
   margin-top: -862px;
   margin-left: 650px;
+  opacity: 0;
 }
+
 /* section-13 : 환경설정, 폰트크기, 알림 볼륨   */
-.bn_13_1{
+.bn_13_1 {
   margin-top: 450.61px;
   margin-left: 154px;
 }
-.bn_13_2{
+
+.bn_13_2 {
   margin-top: -562px;
   margin-left: 1000px;
+  opacity: 0;
 }
-.bn_13_3{
+
+.bn_13_3 {
   margin-left: 1227.41px;
+  opacity: 0;
 }
+
 /* section-14 : 배경, 팝업알림 위젯    */
-.bn_14_2{
+.bn_14_2 {
   margin-top: -1357.67px;
   margin-left: 147px;
+  opacity: 0;
 }
-.bn_14_3{
+
+.bn_14_3 {
   margin-top: -450px;
   margin-left: 945px;
+  opacity: 0;
 }
