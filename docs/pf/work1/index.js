@@ -74,7 +74,7 @@ function Gsap__init() {
     scrollTrigger:{
       trigger:'.bn_6_1',
       markers:false,
-      start:'100% 100%',
+      start:'50% 100%',
       end:'100% 0',
     },
   });
